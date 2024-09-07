@@ -1,0 +1,40 @@
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: black; /* Set table background to black */
+  }
+  
+  table, th, td {
+    border: 1px solid white; /* Border color for table, th, and td */
+}
+  
+  th, td {
+    padding: 15px;
+    text-align: left;
+    color: white; /* Text color to contrast with black background */
+  }
+  
+  th {
+    background-color: #333; /* Darker shade for table headers */
+  }
+  
+  tr:hover {
+    background-color: #555; /* Background color on row hover */
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;   
+  }
+  
+  .analysis {
+    margin-top: 20px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
